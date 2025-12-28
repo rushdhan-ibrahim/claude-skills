@@ -13,6 +13,17 @@ Creating immersive cosmic visual and audio experiences for web applications. Cov
 - **Physics**: Spring dynamics, orbital motion, gravitational attraction
 - **Optimization**: Throttling, visibility-based animation, mobile adaptation, memory management
 
+### [admixtools-qpadm.md](./admixtools-qpadm.md)
+
+Ancient DNA ancestry modeling using ADMIXTOOLS qpAdm. Covers:
+
+- **Data Preparation**: 23andMe → EIGENSTRAT conversion, AADR merge pipeline
+- **Model Design**: Source/outgroup selection, qpWave rank testing
+- **Execution**: Parameter files, output parsing, quality criteria
+- **Validation**: F4-statistics, positive controls, nested model tests
+- **Robustness**: Outgroup rotation, proxy sensitivity, Steppe Certainty Protocol
+- **Interpretation**: Uncertainty quantification, language constraints, caveats
+
 ## Usage
 
 These skills can be referenced by Claude Code to apply proven patterns when building similar features. Place skill files in your project's `.claude/skills/` directory to make them available in context.
